@@ -62,9 +62,7 @@ Replit AI was used as a development assistant to speed up coding and improve pro
 
 ## Author
 
-Marwan Hazem
-
-GitHub: https://github.com/marwanhazem127-lab
+Marwan Hazem & Mostafa Mohamed
 
 ---
 
